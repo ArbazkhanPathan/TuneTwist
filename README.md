@@ -18,7 +18,7 @@ Once the extension is installed, follow these steps to use TuneTwist:
 
 Open a website or article that you want to transform into song names and lyrics.
 
-Click on the LyricLens extension icon in the Chrome toolbar.
+Click on the TuneTwist extension icon in the Chrome toolbar.
 
 Wait for 7-8 seconds as the extension processes and transforms the content of article.
 
