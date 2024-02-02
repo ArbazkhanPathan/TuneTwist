@@ -1,4 +1,4 @@
-# LyricLens Chrome Extension
+# TuneTwist Chrome Extension
 
 ## Installation
 
